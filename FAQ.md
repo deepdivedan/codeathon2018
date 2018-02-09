@@ -18,17 +18,6 @@ Please don't bring: Firearms or other weapons, alcohol, illegal drugs, soldering
 2nd place $1000
 3rd place $500
 
-### Who should I talk to if I have additional questions?
-email the team at : 
-or call ...???
-
-### Why Attend?
-If you’re a participant: You need an arena to demonstrate your coding prowess. You don’t mind missing out on sleep. You also don’t mind subsisting on pizza, beer, and flat soda for 24 hours. Most importantly, you want an opportunity to participate in an event that really brings your local developer community together: you’ll meet fellow hackers, see what they’re up to, and show what you can do. (from https://techcrunch.com/2012/03/31/hackathon-planning/)
-And This One:
-"If people are going to give up a day or a couple of days to work on something, it needs to be for a compelling reason," said founder of Food + Tech Connect Danielle Gould, who has organized multiple food industry-related hackathons. "It's also important to make sure that your goals align with attendees."
-..Many participants attend simply because they want to build cool stuff that actually solves problems. They want to learn about the technology and network with other people in the industry.
-(https://www.techrepublic.com/article/how-to-organize-a-hackathon-6-key-tips/)
-
 ### What are the qualifications as junior, mid, and senior developer levels?
 We ask that you self-assess. Mid and Senior level devs may be asked to lead a team, and during team formation we will try to spread the talent level amongst teams.
 For general guidelines, we say: 
