@@ -43,7 +43,7 @@ These criteria will guide judges but ultimately judges are free to make decision
 
 Competing teams should be 1-4 humans -- no celestial beings, animals or exceptions. You are welcome to come with other humans in mind that you want to work with. If you do not have a team, there will be time Friday evening on Opening Night to meet other programmers and form a team. 
 
-## <CODE/>
+## CODE
 Our judges are proficient in [ languages ] and would love to see some awesome apps written in them. That being said, teams can choose to work in the languages they feel most comfortable and efficient in, and be prepared to explain their code to the judges. 
 
 **Encouraged:**
