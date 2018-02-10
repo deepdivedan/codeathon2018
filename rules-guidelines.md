@@ -68,7 +68,8 @@ Our judges are proficient in [ languages ] and would love to see some awesome ap
 
 ## Libraries/Frameworks
 Libraries, plugins, and modules that are public and freely available are allowed and encouraged. Please list all libraries that you use on your team's GitHub README and give credit where it's due. Stock photos and free icon sets are allowed. Paying for something that is not available to everyone else is not allowed.
-Open Source
+
+## Open Source
 The code repository must be easily accessed and monitored by judges. Put your code on GitHub. Because we like it that way. 
 
 ## Intellectual Property 
