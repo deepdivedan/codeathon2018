@@ -32,5 +32,6 @@ For general guidelines, we say:
 ### Can people from the same company/organization sign up for the same team?
 Absolutely! We want you to have fun with your friends, so you can come with others in mind that you want to work with. Your team may be asked to take on another person depending on the amount and variety of ideas generated Opening Night, but it won't be required.(see [rules-guidelines.md] for more information)
 
-### What is the dress code? 
+### Can I be on a team by myself?
+Sure! We want to encourage everyone to network and meet other developers but the rules are 1-4 people. 
 
