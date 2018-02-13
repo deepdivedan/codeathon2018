@@ -20,7 +20,7 @@ New Mexico Environment Data:
 U.S. Energy Information Administration:
 - [New Mexico Overview](https://www.eia.gov/state/?sid=NM)
 - [NM Carbon Dioxide Emissions](https://www.eia.gov/state/rankings/?sid=NM#series/226)
-- [Total Energy Production](https://www.eia.gov/state/rankings/?sid=NM#series/101)
+- [NM Total Energy Production](https://www.eia.gov/state/rankings/?sid=NM#series/101)
 
 [UNM Open Data](https://bber.unm.edu/unm-open-data)
 
@@ -29,7 +29,7 @@ U.S. Energy Information Administration:
 Artificial Intelligence:
 - [Alexa Skills Kit](https://developer.amazon.com/docs/custom-skills/host-a-custom-skill-as-an-aws-lambda-function.html)
 - [IBM Watson](https://www.ibm.com/watson/developer/)
--[Wit.ai API](https://wit.ai/)
+- [Wit.ai API](https://wit.ai/)
 
 Science and Math:
 - [NASA API](https://api.nasa.gov/)
