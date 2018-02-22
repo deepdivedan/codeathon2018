@@ -33,5 +33,7 @@ For general guidelines, we say:
 Absolutely! We want you to have fun with your friends, so you can come with others in mind that you want to work with. Your team may be asked to take on another person depending on the amount and variety of ideas generated Opening Night, but it won't be required.(see [rules-guidelines.md] for more information)
 
 ### Can I be on a team by myself?
-Sure! We want to encourage everyone to network and meet other developers but the rules are 1-4 people. 
+Sure! We encourage everyone to network and meet other developers but the rules are 1-4 people. 
 
+### I have a MacBook/PC/Linux machine, will that be ok? What software programs would I need to participate?
+The Code-a-Thon is platform-agnostic -- you and your team can decide what you'll use, and all you need is a computer with a code editor to participate, any operating system. More programs may be needed depending on how your team decides to tackle the challenge, but the Rules state that only tools that are free and openly available will be allowed. 
