@@ -88,7 +88,7 @@ All submissions remain the intellectual property of those that developed it -- i
 By submitting an entry or accepting any prize, you warrant the following: you will not submit content that is copyrighted, protected by trade secret or otherwise subject to third party intellectual property rights or other proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the content; and the content submitted by you does not contain any viruses, Trojan horses, worms or other disabling devices or harmful code.
 
 ## Code of Conduct
-Projects that violate the [Code of Conduct](../blob/master/code-of-conduct.md) are not allowed.
+Projects that violate the [Code of Conduct](code-of-conduct.md) are not allowed.
 
 Teams or individuals can be disqualified from the competition at the organizers' discretion. Reasons might include but are not limited to: breaking the Rules, breaking the Code of Conduct, or other unsporting behavior.
 
