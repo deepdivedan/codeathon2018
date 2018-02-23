@@ -50,6 +50,7 @@ Health:
 - [OpenFDA API](https://open.fda.gov/api/)
 
 Messaging:
+- [Mailgun API](https://documentation.mailgun.com/en/latest/)
 - [Slack API](https://api.slack.com/)
 - [Twilio API](https://www.twilio.com/docs/api/rest)
 
@@ -57,7 +58,7 @@ Social:
 - [Twitter API](https://developer.twitter.com/en/docs)
 - [Facebook for developers](https://developers.facebook.com/)
 - [LinkedIn API](https://developer.linkedin.com/docs/rest-api#)
-- [Instagram API](https://www.instagram.com/developer/)
+- [Reddit API](https://www.reddit.com/dev/api/)
 
 Photos:
 - [Flickr API](https://www.flickr.com/services/api/)
@@ -75,9 +76,3 @@ Augmented Reality:
 API Development and testing:
 - [Postman](https://www.getpostman.com/)
 - [Mockbin](http://mockbin.org/)
-
-
-
-
-
- 
