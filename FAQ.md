@@ -1,7 +1,7 @@
 # Frequently Asked Questions
 
 ### Can I code in any language?
-You may write in any language you want, but come prepared to explain your decisions to the judges. [see Rules and Guidelines](rules-guidelines.md) for more information)
+You may write in any language you want, but come prepared to explain your decisions to the judges. (see [Rules and Guidelines](rules-guidelines.md) for more information)
 
 ### When/Where can I hack? Do I have to only code at the event's location?
 We have access to the STEMulus Center from 8:00am to 10:00pm on Saturday. Since the location is not 24/7, you can meet with your team on your own whenever you'd like. On location we will have plenty of space, a reliable wifi connection, opportunities to meet with a mentors to help architect your project, and food - breakfast, lunch and snacks. The more time spent on location the better opportunities to network and meet people in the community.
