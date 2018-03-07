@@ -90,7 +90,7 @@ Libraries, plugins, and modules that are public and freely available are allowed
 - Spring
 - Visual Basic
 
-Something you don't see here? message the organizers at (employers@deepdivecoding.com)[mailto:employers@deepdivecoding.com] and ask about it
+Something you don't see here? message the organizers at [employers@deepdivecoding.com](mailto:employers@deepdivecoding.com) and ask about it
 
 ## Open Source
 The code repository must be easily accessed and monitored by judges. Put your code on GitHub. Because we like it that way.
