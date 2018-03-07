@@ -71,13 +71,26 @@ Libraries, plugins, and modules that are public and freely available are allowed
 
 - Angular
 - Bootstrap
+- C#
+- C++
+- Cordova
+- CSS
 - Django
 - Hibernate
+- HTML
+- Java
+- JavaScript
 - jQuery
+- JSON
 - Laravel
 - .NET
+- PHP
+- Python
 - React
 - Spring
+- Visual Basic
+
+Something you don't see here? message the organizers at (employers@deepdivecoding.com)[mailto:employers@deepdivecoding.com] and ask about it
 
 ## Open Source
 The code repository must be easily accessed and monitored by judges. Put your code on GitHub. Because we like it that way.
