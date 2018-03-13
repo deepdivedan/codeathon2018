@@ -43,6 +43,14 @@ These criteria will guide judges but ultimately judges are free to make decision
 
 Competing teams should be 1-4 humans -- no celestial beings, animals or exceptions. You are welcome to come with other humans in mind that you want to work with. If you do not have a team, there will be time Friday evening on Opening Night to meet other programmers and form a team.
 
+## Remote Work
+
+We don't mind if some or all of your team would like to work remotely at any time this weekend. In fact, on Saturday night STEMulus will close at 5pm, and teams are encouraged to continue work on their projects from home or other locations. 
+
+However, all participants are required to be at RSI for Opening Night registration and theme announcement, as well as at STEMulus on Sunday afternoon to meet with judges and participate in the prize winner announcement.  If circumstances may affect your ability to be present Friday evening and Sunday afternoon, get in touch and we'll address them on an individual basis. 
+
+One of our missions for this event is to encourage a sense of community among the developers of Albuquerque. We get it – not everyone can stay all weekend long. But we want to see you on Friday and Sunday - come meet the rest of the participants and take advantage of the free food, great community, and networking opportunities!
+
 ## CODE
 Our judges are proficient in [ languages ] and would love to see some awesome apps written in them. That being said, teams can choose to work in the languages they feel most comfortable and efficient in, and be prepared to explain their code to the judges.
 
