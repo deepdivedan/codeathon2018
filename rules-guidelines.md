@@ -17,7 +17,7 @@ Teams must present their application in whatever state it is in at 12:00pm! So, 
 ## Winning
 The winning prototype will be selected by a panel of judges and announced on Sunday after demonstrations. The 1st, 2nd and 3rd place teams will receive cash prizes.
 
-- 1st place $2000, donated by CNM Foundation
+- 1st place $2000, donated by [Deep Dive Coding](https://deepdivecoding.com/)
 - 2nd place $1000, donated by [Lyra Development](https://lyradevelopment.com/)
 - 3rd place $500, donated by [Air Force Research Labs NM](http://www.afrlnewmexico.com/)
 
