@@ -10,6 +10,10 @@ A challenge theme on which to base your software will be announced Friday for Op
 
 Coding can begin on Friday, March 16th at 8:00pm MST. Your final commit must be submitted by Sunday, March 18th at 12:00pm MST. Committing code after noon on Sunday may disqualify your team.
 
+Each team will be given about 15 minutes on Sunday afternoon to show off your code to our panel of judges.  Your team must stop committing to the repo at 12:00 MST, but you may continue working on the _presentation_ of your work to the judges until you meet with them (i.e. making elevator pitches, descriptions, or even a slide show if you wish). 
+
+Teams must present their application in whatever state it is in at 12:00pm! So, for instance, if your last commit at noon still results in an app that is not operational, that’s how you'll need to present it. 
+
 ## Winning
 The winning prototype will be selected by a panel of judges and announced on Sunday after demonstrations. The 1st, 2nd and 3rd place teams will receive cash prizes.
 
