@@ -13,9 +13,9 @@ Coding can begin on Friday, March 16th at 8:00pm MST. Your final commit must be 
 ## Winning
 The winning prototype will be selected by a panel of judges and announced on Sunday after demonstrations. The 1st, 2nd and 3rd place teams will receive cash prizes.
 
-- 1st place $2000
-- 2nd place $1000
-- 3rd place $500
+- 1st place $2000, donated by CNM Foundation
+- 2nd place $1000, donated by Lyra Development
+- 3rd place $500, donated by Air Force Research Labs
 
 These are awarded to the the winning team, not the individuals. If you are part of a 4 person team, you will split this amount 4 ways.
 
