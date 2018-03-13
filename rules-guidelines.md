@@ -49,7 +49,7 @@ We don't mind if some or all of your team would like to work remotely at any tim
 
 However, all participants are required to be at RSI for Opening Night registration and theme announcement, as well as at STEMulus on Sunday afternoon to meet with judges and participate in the prize winner announcement.  If circumstances may affect your ability to be present Friday evening and Sunday afternoon, get in touch and we'll address them on an individual basis. 
 
-One of our missions for this event is to encourage a sense of community among the developers of Albuquerque. We get it – not everyone can stay all weekend long. But we want to see you on Friday and Sunday - come meet the rest of the participants and take advantage of the free food, great community, and networking opportunities!
+One of our missions for this event is to encourage a sense of community among the developers of New Mexico. We get it – not everyone can stay all weekend long. But we want to see you on Friday and Sunday - come meet the rest of the participants and take advantage of the free food, great community, and networking opportunities!
 
 ## CODE
 Our judges are proficient in [ languages ] and would love to see some awesome apps written in them. That being said, teams can choose to work in the languages they feel most comfortable and efficient in, and be prepared to explain their code to the judges.
