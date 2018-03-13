@@ -18,8 +18,8 @@ Teams must present their application in whatever state it is in at 12:00pm! So, 
 The winning prototype will be selected by a panel of judges and announced on Sunday after demonstrations. The 1st, 2nd and 3rd place teams will receive cash prizes.
 
 - 1st place $2000, donated by CNM Foundation
-- 2nd place $1000, donated by Lyra Development
-- 3rd place $500, donated by Air Force Research Labs
+- 2nd place $1000, donated by [Lyra Development](https://lyradevelopment.com/)
+- 3rd place $500, donated by [Air Force Research Labs NM](http://www.afrlnewmexico.com/)
 
 These are awarded to the the winning team, not the individuals. If you are part of a 4 person team, you will split this amount 4 ways.
 
