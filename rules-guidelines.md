@@ -1,7 +1,7 @@
 # Rules and Guidelines
 
 ## Purpose
-To promote community amongst the growing tech scene in Albuquerque.
+To promote community amongst the growing tech scene in New Mexico.
 
 To meet fellow developers and work with them on a project, stretch our skills on quick prototypes or portfolio pieces, and share what we can do with like-minded developers.
 
