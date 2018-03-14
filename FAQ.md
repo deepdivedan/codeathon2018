@@ -37,3 +37,6 @@ Sure! We encourage everyone to network and meet other developers but the rules a
 
 ### I have a MacBook/PC/Linux machine, will that be ok? What software programs would I need to participate?
 The Code-a-Thon is platform-agnostic -- you and your team can decide what you'll use, and all you need is a computer with a code editor to participate, any operating system. More programs may be needed depending on how your team decides to tackle the challenge, but the Rules state that only tools that are free and openly available will be allowed. 
+
+### When do I get my money?
+"Dummy" giant checks will be awarded to winners on Sunday (just for fun and pictures), but the prize money payments may take 1-2 weeks after that to be processed. Winners will receive instructions on how to get their money after the awards ceremony.
