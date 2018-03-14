@@ -15,9 +15,9 @@ Please don't bring: Firearms or other weapons, alcohol, illegal drugs, soldering
 
 ### What can I win?
 Cash prizes for the 1st, 2nd, and 3rd place winners include:
-- 1st place $2000 
-- 2nd place $1000
-- 3rd place $500
+- 1st place $2000, donated by Deep Dive Coding
+- 2nd place $1000, donated by Lyra Development
+- 3rd place $500, donated by Air Force Research Labs NM
 
 Participation wins you bragging rights, networking opportunities, and a potential awesome new portfolio piece. 
 
