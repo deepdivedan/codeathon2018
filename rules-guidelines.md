@@ -56,7 +56,7 @@ However, all participants are required to be at RSI for Opening Night registrati
 One of our missions for this event is to encourage a sense of community among the developers of New Mexico. We get it – not everyone can stay all weekend long. But we want to see you on Friday and Sunday - come meet the rest of the participants and take advantage of the free food, great community, and networking opportunities!
 
 ## CODE
-Our judges are proficient in [ languages ] and would love to see some awesome apps written in them. That being said, teams can choose to work in the languages they feel most comfortable and efficient in, and be prepared to explain their code to the judges.
+Our judges are proficient in a multitude of major programming languages and would love to see some awesome apps written in them. That being said, teams can choose to work in the languages they feel most comfortable and efficient in, and be prepared to explain their code to the judges.
 
 **Encouraged:**
 - JavaScript
@@ -83,21 +83,16 @@ Libraries, plugins, and modules that are public and freely available are allowed
 
 - Angular
 - Bootstrap
-- C#
-- C++
+- Styled Components
 - Cordova
 - CSS
 - Django
+- Flask
 - Hibernate
 - HTML
-- Java
-- JavaScript
 - jQuery
-- JSON
 - Laravel
 - .NET
-- PHP
-- Python
 - React
 - Spring
 - Visual Basic
