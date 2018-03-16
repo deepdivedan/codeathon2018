@@ -45,18 +45,20 @@ Weather:
 - [AccuWeather APIs](https://developer.accuweather.com/)
 
 Health:
-- [Healthcare.gov API](https://www.healthcare.gov/developers/)
+- [Healthcare.gov API](https://github.com/mailhog/MailHog)
 - [Lexigram API](https://docs.lexigram.io/v1/welcome/getting-started)
 - [OpenFDA API](https://open.fda.gov/api/)
 
 Messaging:
+- [Mailhog API](https://documentation.mailgun.com/en/latest/)
 - [Mailgun API](https://documentation.mailgun.com/en/latest/)
 - [Slack API](https://api.slack.com/)
 - [Twilio API](https://www.twilio.com/docs/api/rest)
 
 Social:
+- [Instagram Graph API](https://developers.facebook.com/docs/instagram-api)
 - [Twitter API](https://developer.twitter.com/en/docs)
-- [Facebook for developers](https://developers.facebook.com/)
+- [Facebook for Developers](https://developers.facebook.com/)
 - [LinkedIn API](https://developer.linkedin.com/docs/rest-api#)
 - [Reddit API](https://www.reddit.com/dev/api/)
 
