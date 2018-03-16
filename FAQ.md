@@ -40,3 +40,6 @@ The Code-a-Thon is platform-agnostic -- you and your team can decide what you'll
 
 ### When do I get my money?
 "Dummy" giant checks will be awarded to winners on Sunday (just for fun and pictures), but the prize money payments may take 1-2 weeks after that to be processed. Winners will receive instructions on how to get their money after the awards ceremony.
+
+### What's the deadline to sign up?
+Out of consideration for our judges' time, our limited space, and general logistics, we can't accept sign-ups for developer participants after 5:00pm on Friday, March 16th, and there are a limited number of tickets. If you're thinking about participating, buy your ticket before it's too late! 
