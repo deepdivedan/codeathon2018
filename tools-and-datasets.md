@@ -78,3 +78,6 @@ Augmented Reality:
 API Development and testing:
 - [Postman](https://www.getpostman.com/)
 - [Mockbin](http://mockbin.org/)
+
+New Mexico 2017 Poverty statics from 2017: 
+- [talkpoverty.org](https://talkpoverty.org/state-year-report/new-mexico-2017-report/)
